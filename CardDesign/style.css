@@ -1,0 +1,62 @@
+.langs > div{
+    background-color: rgba(211, 211, 211, 0.4);
+    text-align: center;
+    margin: 0px 5px 5px 5px;
+    padding: 0px 2px 2px 0px;
+    border-radius: 10px;
+}
+
+.langs{
+    margin: 0 5px 0 5px;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+.section{
+    margin-top: 35px;
+}
+
+.card-photo > img{
+    border-radius: 20px;
+    padding: 5px;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.card-photo{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+.card-background{
+    margin: 50px 175px 50px 175px;
+    border-radius: 10px;
+    background-color: white;
+    padding: 25px 10px 25px 10px;
+}
+
+.featured{
+    background-color: rgba(149, 226, 137, 0.5);
+    border-radius: 5px;
+    color: rgb(82, 150, 104);
+    margin-right: 5px;
+    padding: 3px 10px 3px 10px;
+    text-align: center;
+    width: auto;
+}
+
+.discount{
+    background-color: rgba(229, 120, 120, 0.5);
+    border-radius: 5px;
+    color: red;
+    padding: 3px 10px 3px 10px;
+    text-align: center;
+    width: auto;
+}
+
+.details-button{
+    padding: 3px 15px 3px 15px;
+}
